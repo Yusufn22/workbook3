@@ -26,8 +26,6 @@ function displayReceipt(totalDue, amountPaid) {
     console.log(amountPaid);
     console.log(spent)
     
-     
-    
 }
 displayReceipt(60, 65)
 displayReceipt(60, 60)
